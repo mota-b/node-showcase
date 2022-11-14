@@ -1,0 +1,22 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "debug.javascript.autoAttachFilter": "onlyWithFlag",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#023517",
+    "titleBar.activeBackground": "#034a18",
+    "titleBar.activeForeground": "#FEFAE3"
+  }
+}
